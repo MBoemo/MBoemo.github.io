@@ -1,0 +1,3 @@
+[submodule "intro-machine-learning"]
+	path = intro-machine-learning
+	url = https://github.com/MBoemo/intro-machine-learning.git
